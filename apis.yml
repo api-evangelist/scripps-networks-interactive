@@ -1,4 +1,5 @@
 aid: scripps-networks-interactive
+name: "Scripps Networks Interactive"
 specificationVersion: '0.23'
 accessModel:
   pricing: unknown
