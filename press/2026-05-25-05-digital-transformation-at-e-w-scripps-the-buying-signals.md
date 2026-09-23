@@ -1,7 +1,9 @@
 ---
 title: 'Digital Transformation at E W Scripps The: Buying Signals'
 url: https://pintel.ai/digital-transformation/e-w-scripps-the
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Scripps Networks Interactive" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Scripps Networks Interactive's Recipe For Platform-Specific ...
 url: https://www.adexchanger.com/ad-exchange-news/scripps-networks-interactives-recipe-platform-specific-content/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Scripps Networks Interactive" press release artificial intelligence'
 position: 1
 source: serpapi-google
